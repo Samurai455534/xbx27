@@ -22,6 +22,8 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
+  font-weight: 700;
+  font-size: 1.125rem;
   margin: 38px -22px 60px 0;
 }
 
